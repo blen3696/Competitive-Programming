@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/blen3696/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 ## Matrix
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 ## Sorting
 |  |
 | ------- |
@@ -28,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
