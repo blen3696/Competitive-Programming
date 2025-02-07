@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0661-image-smoother](https://github.com/blen3696/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -40,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 <!---LeetCode Topics End-->
