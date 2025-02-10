@@ -3,9 +3,12 @@ class Solution:
         n = len(height)
 
         for i in range(n):
-            for j in range(1, n - i):
-                if height[j] > height[j - 1]:
-                    height[j], height[j - 1] = height[j - 1], height[j]
-                    names[j], names[j - 1] = names[j - 1], names[j]
+            min_index = i
+            for j in range(i + 1,n):
+                if height[j] >  height[min_index]:
+                    min_index = j
+            height[i], height[min_index] = height[min_index], height[i]
+            names[i], names[min_index] = names[min_index], names[i]
+
 
         return names
