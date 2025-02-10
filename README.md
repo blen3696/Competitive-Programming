@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
+| [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
