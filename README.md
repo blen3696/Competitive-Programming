@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blen3696/Competitive-Programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## Matrix
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
+| [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
