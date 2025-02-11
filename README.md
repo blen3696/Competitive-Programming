@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/blen3696/Competitive-Programming/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
+| [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
+| [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Divide and Conquer
 |  |
