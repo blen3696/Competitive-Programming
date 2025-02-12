@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/blen3696/Competitive-Programming/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0275-h-index-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 ## Heap (Priority Queue)
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Game Theory
