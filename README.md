@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/blen3696/Competitive-Programming/tree/master/0722-remove-comments) |
+| [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/blen3696/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/blen3696/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/blen3696/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
+| [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
