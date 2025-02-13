@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/blen3696/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/blen3696/Competitive-Programming/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/blen3696/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/blen3696/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
@@ -198,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/blen3696/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/blen3696/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
