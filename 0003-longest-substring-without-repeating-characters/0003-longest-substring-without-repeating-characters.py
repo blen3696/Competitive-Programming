@@ -1,18 +1,19 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         
-        my_set = set()
-        l = 0
-        r = 0
-        max_len = 0
-        for r in range(len(s)):
-            while s[r] in my_set:
-                my_set.remove(s[l])
-                l += 1
-            my_set.add(s[r])
-            max_len = max(max_len,r - l + 1)
-
-        return max_len
-            
-
+         mpp = [-1] * 256
+   
+         l =0
+         r = 0
+         max_len = 0
+    
+         while r < len(s) :
+             if mpp[ord(s[r])] != -1:
+                 if mpp[ord(s[r])] >= l:
+                      l = mpp[ord(s[r])] +1
+             length = r-l +1
+             max_len = max(length,max_len)
+             mpp[ord(s[r])] = r
+             r +=1
+         return max_len
         
