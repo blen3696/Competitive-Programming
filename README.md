@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1755-defuse-the-bomb](https://github.com/blen3696/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 | [1961-maximum-ice-cream-bars](https://github.com/blen3696/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blen3696/Competitive-Programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/blen3696/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/blen3696/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
