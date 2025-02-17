@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/blen3696/Competitive-Programming/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/blen3696/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/blen3696/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +228,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
