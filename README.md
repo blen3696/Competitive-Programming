@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/blen3696/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/blen3696/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/blen3696/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/blen3696/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
