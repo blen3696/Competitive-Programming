@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/blen3696/Competitive-Programming/tree/master/1028-interval-list-intersections) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/blen3696/Competitive-Programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
+| [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/blen3696/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/blen3696/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/blen3696/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
