@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/blen3696/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/blen3696/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/blen3696/Competitive-Programming/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/blen3696/Competitive-Programming/tree/master/0283-move-zeroes) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/blen3696/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/blen3696/Competitive-Programming/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
