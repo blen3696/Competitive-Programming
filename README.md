@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/blen3696/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/blen3696/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/blen3696/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/blen3696/Competitive-Programming/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/blen3696/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/blen3696/Competitive-Programming/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
