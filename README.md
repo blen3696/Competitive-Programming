@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
