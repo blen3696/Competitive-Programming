@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/blen3696/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/blen3696/Competitive-Programming/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/blen3696/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/blen3696/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
