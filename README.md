@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/blen3696/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
