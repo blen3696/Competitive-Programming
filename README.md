@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/blen3696/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blen3696/Competitive-Programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/blen3696/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 ## Design
 |  |
