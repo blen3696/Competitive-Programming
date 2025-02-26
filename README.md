@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/blen3696/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/blen3696/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/blen3696/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
