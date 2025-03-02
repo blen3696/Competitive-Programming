@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Greedy
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -317,8 +321,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
