@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/blen3696/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/blen3696/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
