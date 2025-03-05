@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
+| [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [3055-maximum-odd-binary-number](https://github.com/blen3696/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/blen3696/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
