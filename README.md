@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/blen3696/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/blen3696/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/blen3696/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/blen3696/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/blen3696/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/blen3696/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/blen3696/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
