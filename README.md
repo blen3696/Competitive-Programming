@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/blen3696/Competitive-Programming/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/blen3696/Competitive-Programming/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
+| [0859-design-circular-deque](https://github.com/blen3696/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/blen3696/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/blen3696/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Dynamic Programming
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/blen3696/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/blen3696/Competitive-Programming/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
