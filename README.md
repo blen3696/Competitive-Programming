@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/blen3696/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/blen3696/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/blen3696/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/blen3696/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/blen3696/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/blen3696/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
+| [0874-backspace-string-compare](https://github.com/blen3696/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
