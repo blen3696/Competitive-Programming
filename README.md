@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/blen3696/Competitive-Programming/tree/master/1755-defuse-the-bomb) |
 | [1961-maximum-ice-cream-bars](https://github.com/blen3696/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blen3696/Competitive-Programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/blen3696/Competitive-Programming/tree/master/0858-masking-personal-information) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/blen3696/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/blen3696/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/blen3696/Competitive-Programming/tree/master/3447-clear-digits) |
