@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/blen3696/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/blen3696/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/blen3696/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/blen3696/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/blen3696/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3055-maximum-odd-binary-number](https://github.com/blen3696/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/blen3696/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/blen3696/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Divide and Conquer
 |  |
 | ------- |
