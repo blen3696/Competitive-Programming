@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/blen3696/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/blen3696/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/blen3696/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/blen3696/Competitive-Programming/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 ## Doubly-Linked List
 |  |
 | ------- |
