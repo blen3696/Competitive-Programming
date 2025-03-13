@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/blen3696/Competitive-Programming/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/blen3696/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/blen3696/Competitive-Programming/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/blen3696/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/blen3696/Competitive-Programming/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/blen3696/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
 ## Stack
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/blen3696/Competitive-Programming/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/blen3696/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/blen3696/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/blen3696/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/blen3696/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
