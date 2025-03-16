@@ -8,11 +8,10 @@ class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
       
         if not p and not q:
-            return True  # Both trees are empty
+            return True
         if not p or not q:
-            return False  # One tree is empty, the other is not
+            return False 
         if p.val != q.val:
-            return False  # Values at the current node are different
+            return False 
 
-        # Recursively check left and right subtrees
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
