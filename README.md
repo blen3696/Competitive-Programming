@@ -425,18 +425,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
