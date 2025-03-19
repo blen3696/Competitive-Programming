@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/blen3696/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/blen3696/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/blen3696/Competitive-Programming/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/blen3696/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/blen3696/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/blen3696/Competitive-Programming/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/blen3696/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/blen3696/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/blen3696/Competitive-Programming/tree/master/0861-flipping-an-image) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/blen3696/Competitive-Programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
