@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/blen3696/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/blen3696/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2665-minimum-time-to-repair-cars](https://github.com/blen3696/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/blen3696/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/blen3696/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/blen3696/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Game Theory
 |  |
 | ------- |
