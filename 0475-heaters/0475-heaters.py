@@ -6,7 +6,7 @@ class Solution:
                 if abs(houses[i] - heaters[j]) <= m:
                     i += 1  
                 else:
-                    j += 1  # 
+                    j += 1 
             return i == len(houses)  
         
         houses.sort()
