@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/blen3696/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/blen3696/Competitive-Programming/tree/master/1028-interval-list-intersections) |
+| [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/blen3696/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/blen3696/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/blen3696/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/blen3696/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -487,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0052-n-queens-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/blen3696/Competitive-Programming/tree/master/0078-subsets) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
