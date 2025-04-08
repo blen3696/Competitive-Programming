@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/blen3696/Competitive-Programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/blen3696/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/blen3696/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/blen3696/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/blen3696/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/blen3696/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/blen3696/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/blen3696/Competitive-Programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/blen3696/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/blen3696/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/blen3696/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1675-magnetic-force-between-two-balls](https://github.com/blen3696/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/blen3696/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Game Theory
