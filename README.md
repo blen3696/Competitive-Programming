@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1009-pancake-sorting](https://github.com/blen3696/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/blen3696/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/blen3696/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/blen3696/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -508,5 +512,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 <!---LeetCode Topics End-->
