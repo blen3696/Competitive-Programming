@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/blen3696/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2665-minimum-time-to-repair-cars](https://github.com/blen3696/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/blen3696/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3643-zero-array-transformation-ii](https://github.com/blen3696/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/blen3696/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/blen3696/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [3643-zero-array-transformation-ii](https://github.com/blen3696/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/blen3696/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
