@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/blen3696/Competitive-Programming/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/blen3696/Competitive-Programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/blen3696/Competitive-Programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/blen3696/Competitive-Programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/blen3696/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/blen3696/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/blen3696/Competitive-Programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/blen3696/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [3055-maximum-odd-binary-number](https://github.com/blen3696/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/blen3696/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/blen3696/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/blen3696/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -525,8 +529,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/blen3696/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
 | ------- |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
