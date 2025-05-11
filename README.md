@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/blen3696/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/blen3696/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/blen3696/Competitive-Programming/tree/master/0886-score-of-parentheses) |
+| [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1582-design-browser-history](https://github.com/blen3696/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/blen3696/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/blen3696/Competitive-Programming/tree/master/0053-maximum-subarray) |
+| [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 ## Line Sweep
 |  |
 | ------- |
@@ -542,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/blen3696/Competitive-Programming/tree/master/2206-detonate-the-maximum-bombs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
