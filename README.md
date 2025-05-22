@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/blen3696/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 ## Geometry
