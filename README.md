@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
