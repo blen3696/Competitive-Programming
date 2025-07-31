@@ -11,4 +11,4 @@ class Solution:
             else:
                 l = m + 1
 
-        return min_el
+        return min_el 
