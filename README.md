@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/blen3696/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/blen3696/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/blen3696/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 ## Geometry
