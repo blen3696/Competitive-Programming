@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/blen3696/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/blen3696/Competitive-Programming/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/blen3696/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0943-sum-of-subarray-minimums](https://github.com/blen3696/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/blen3696/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/blen3696/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/blen3696/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/blen3696/Competitive-Programming/tree/master/0829-subdomain-visit-count) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/blen3696/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/blen3696/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/blen3696/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/blen3696/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/blen3696/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -578,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/blen3696/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/blen3696/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0924-minimize-malware-spread) |
 | [0960-minimize-malware-spread](https://github.com/blen3696/Competitive-Programming/tree/master/0960-minimize-malware-spread) |
 ## Geometry
 |  |
