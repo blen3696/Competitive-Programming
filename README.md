@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/blen3696/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/blen3696/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/blen3696/Competitive-Programming/tree/master/0179-largest-number) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/blen3696/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/blen3696/Competitive-Programming/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/blen3696/Competitive-Programming/tree/master/0567-permutation-in-string) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/blen3696/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/blen3696/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/blen3696/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/blen3696/Competitive-Programming/tree/master/0838-design-linked-list) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/blen3696/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/blen3696/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/blen3696/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/blen3696/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/blen3696/Competitive-Programming/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/blen3696/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/blen3696/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/blen3696/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
